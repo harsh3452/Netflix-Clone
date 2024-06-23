@@ -1,0 +1,15 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.navbar {
+  height: 90px;
+  width: 100%;
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  justify-content: space-evenly;
+}
